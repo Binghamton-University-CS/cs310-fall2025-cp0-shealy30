@@ -1,5 +1,5 @@
 Full Name: Shawn Healy
-GitHub ID: 157426513
+GitHub ID: shealy30
 Binghamton CS userid: shealy
 Discord name: Shawn Healy
 
